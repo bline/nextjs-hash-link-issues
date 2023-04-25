@@ -24,6 +24,7 @@ export default function Home() {
           <Link href="#section4">Section4</Link><br />
           <Link href="#section5">Section5</Link><br />
         </div>
+        <div className={styles.section}></div>
         <div className={styles.section}>
           <a id="section1"></a>
           <h1>Section1</h1>
